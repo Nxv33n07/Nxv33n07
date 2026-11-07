@@ -1,22 +1,57 @@
-# 💫 About Me:
--  👋 Hi, I’m Naveen<br> 
--  👀 Passionate in AI/ML<br> 
--  🌱 I’m currently working on Machine Learning<br>
--  💞️ I’m looking to collaborate with the entusiasts who are working on Machine on Learning
+<div align="center">
 
+<img src="assets/hero.svg" alt="Dithered portrait of Naveen Kumar Kancherla beside the words Build, Ship, Debug, Repeat" width="880">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/naveen-kancherla) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/_Naveen_07/s/skGzoeMloP) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/KancherlaN44584?t=HDKGxYd0R-XJxKiTagFvvA&s=08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenk0000007@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+**AI engineer who takes products from an empty repo to launch, then keeps them correct.**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nxv33n07&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nxv33n07&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nxv33n07&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-naveen--kancherla-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-kancherla)
+[![Email](https://img.shields.io/badge/Email-naveenkancherla7%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naveenkancherla7@gmail.com)
+[![X](https://img.shields.io/badge/X-KancherlaN44584-000000?style=flat&logo=x&logoColor=white)](https://x.com/KancherlaN44584)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nxv33n07&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### `$ whoami`
 
+- 🛠️ I build complete AI products: data model, backend, UI, deployment, tests.
+- 🤖 I use AI coding tools every day, and I read, debug and fix what they write.
+- 📊 I care about data you can trust: validated SQL over guessed SQL, evals over vibes, backups over hope.
+- 🎓 B.Tech CSE, RGUKT Nuzvid (2026) · NxtWave CCBP Academy learner
+- 📍 Hyderabad, India
+
+### `$ ls ~/work`
+
+**AI Engineer · NextWe Studio** · Jun 2026 – Oct 2026
+Took an AI SaaS from an empty repo to launch, built natural-language BI that answers from certified SQL metrics with eval suites, built a team chat app with a confirm-before-act AI agent, and owned AWS deployment, backups and data controls.
+
+**AI Engineer Intern · Alumnx AI Labs** · Jan 2026 – May 2026
+Built MCP-based data-access services, web-to-dataset pipelines with Playwright and LLMs, and async ETL for RAG systems.
+
+<sub>Company work is private, so the repos below are my own projects.</sub>
+
+### `$ ls ~/projects`
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**NexVec**](https://github.com/Nxv33n07/alumnx-vector-db) | Hybrid retrieval over resumes: LLM-written, guarded SQL filters candidates, then vector search ranks the evidence | Python · FastAPI · PostgreSQL · hnswlib · Gemini |
+| [**Real-Time Order Updates**](https://github.com/Nxv33n07/Apt) | Pushes Postgres row changes to clients over WebSockets with zero polling, via triggers and `LISTEN/NOTIFY` | Python · FastAPI · asyncpg · PostgreSQL · Docker |
+| [**Multi-Agent Research Engine**](https://github.com/Nxv33n07/multi-agent-research-system-2) | Five agents that plan, search, validate, extract and write cited reports from arXiv, IEEE and GitHub | Python · CrewAI · OpenAI · Exa · Tavily |
+| [**EventBot (Table + Text RAG)**](https://github.com/Nxv33n07/HybridRAG) | PDF assistant that answers from both extracted tables (SQL) and text (vector search), routed by a LangGraph manager agent | Python · FastAPI · LangGraph · Gemini · Pinecone · MySQL |
+
+### `$ cat stack.txt`
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,react,nextjs,flutter,nodejs,fastapi,postgres,mysql,mongodb,supabase,redis,docker,aws,cloudflare,vercel,githubactions,git&perline=10" alt="Python, TypeScript, JavaScript, Java, React, Next.js, Flutter, Node.js, FastAPI, PostgreSQL, MySQL, MongoDB, Supabase, Redis, Docker, AWS, Cloudflare, Vercel, GitHub Actions, Git">
+</p>
+
+**AI:** OpenAI · Anthropic · Gemini APIs · AI agents · MCP · RAG · hybrid retrieval · LLM evaluation · LangChain · LangGraph · CrewAI
+**Build with:** Claude Code · Cursor · Codex
+
+### `$ echo $ACHIEVEMENTS`
+
+- 🏅 RGUKT CET rank **1,019** of 86,000+
+- ⚡ Agentathon, GDG Hyderabad: built an agentic AI solution in 36 hours (part of a Guinness World Record–recognized global event)
+- 🎤 Ran a 3-hour hands-on AI workshop for 25+ business owners
